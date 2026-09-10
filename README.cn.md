@@ -4,7 +4,7 @@
 
 Terminal-native 3-way git mergetool and diff viewer
 
-![ec](https://repo.x-cmd.io/ec.svg)
+![ec](https://repo.x-cmd.io/ec.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,18 @@ x install ec
 - **最新版本**: `v0.4.1` (2026-09-09)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-09-09T12:01:02Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/chojs23/ec/releases/download/v0.4.1/checksums.txt) | 500 B | `other` |
+| [ec-darwin-amd64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-darwin-amd64) | 7.1 MiB | `native/darwin/x64` |
+| [ec-darwin-arm64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-darwin-arm64) | 7.0 MiB | `native/darwin/arm64` |
+| [ec-linux-amd64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-amd64) | 7.1 MiB | `native/linux/x64` |
+| [ec-linux-arm64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-arm64) | 6.9 MiB | `native/linux/arm64` |
+| [ec-windows-amd64.exe](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-windows-amd64.exe) | 7.4 MiB | `native/win/x64` |
+| [ec-windows-arm64.exe](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-windows-arm64.exe) | 7.2 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -62,4 +73,4 @@ ec 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:37:50Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:12:05Z._
