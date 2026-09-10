@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 500,
       "digest": "sha256:a40dc0bfa4a60205c63ff380c64d4feddda4c6531f486e731a281af5bcdda395",
-      "download_count": 23,
+      "download_count": 27,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7418148,
       "digest": "sha256:823b6ef8cdcf13fe0c4a762d88e924512377df80fe7e85ef28ee0295e97ad547",
-      "download_count": 18,
+      "download_count": 30,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7209144,
       "digest": "sha256:dfcca9d44b017ec4c93d425b5e1062033458a24d42243b30107316b2832d225f",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7779840,
       "digest": "sha256:14bc73af8e23822325585712e8c769cfad45c41ae596f88f3b63fa80bd45217f",
-      "download_count": 33,
+      "download_count": 39,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/ec-windows-amd64.exe"
