@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 500,
       "digest": "sha256:a40dc0bfa4a60205c63ff380c64d4feddda4c6531f486e731a281af5bcdda395",
-      "download_count": 8,
+      "download_count": 23,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7481712,
       "digest": "sha256:6e1a8d0546c984fba4c2abca8a31763cea322254e095af99bedc3dcf6a17c85b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/ec-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7325826,
       "digest": "sha256:ab01e1087e4a6abf38835dcbaff8367e57c2cb814156769d202b53b5e74c17f0",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:02Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/ec-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7418148,
       "digest": "sha256:823b6ef8cdcf13fe0c4a762d88e924512377df80fe7e85ef28ee0295e97ad547",
-      "download_count": 10,
+      "download_count": 18,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7209144,
       "digest": "sha256:dfcca9d44b017ec4c93d425b5e1062033458a24d42243b30107316b2832d225f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7779840,
       "digest": "sha256:14bc73af8e23822325585712e8c769cfad45c41ae596f88f3b63fa80bd45217f",
-      "download_count": 7,
+      "download_count": 33,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/ec-windows-amd64.exe"
