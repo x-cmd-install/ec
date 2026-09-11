@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 500,
       "digest": "sha256:a40dc0bfa4a60205c63ff380c64d4feddda4c6531f486e731a281af5bcdda395",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7418148,
       "digest": "sha256:823b6ef8cdcf13fe0c4a762d88e924512377df80fe7e85ef28ee0295e97ad547",
-      "download_count": 30,
+      "download_count": 36,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-amd64"
