@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7418148,
       "digest": "sha256:823b6ef8cdcf13fe0c4a762d88e924512377df80fe7e85ef28ee0295e97ad547",
-      "download_count": 36,
+      "download_count": 38,
       "created_at": "2026-09-09T12:01:01Z",
       "updated_at": "2026-09-09T12:01:01Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-amd64"
