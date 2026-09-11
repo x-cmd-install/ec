@@ -12,6 +12,18 @@ Terminal-native 3-way git mergetool and diff viewer
 x install ec
 ```
 
+## Code insight
+
+Total: **14,920** lines of code across **59** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 14,283 | 157 | 1,696 | 52 |
+| Lua | 159 | 1 | 22 | 2 |
+| JavaScript | 142 | 7 | 23 | 2 |
+| Nix | 97 | 0 | 7 | 2 |
+| Sh | 84 | 1 | 15 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/chojs23/ec>
@@ -23,18 +35,6 @@ x install ec
 - **Latest**: `v0.4.1` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 7
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [checksums.txt](https://github.com/chojs23/ec/releases/download/v0.4.1/checksums.txt) | 500 B | `other` |
-| [ec-darwin-amd64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-darwin-amd64) | 7.1 MiB | `native/darwin/x64` |
-| [ec-darwin-arm64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-darwin-arm64) | 7.0 MiB | `native/darwin/arm64` |
-| [ec-linux-amd64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-amd64) | 7.1 MiB | `native/linux/x64` |
-| [ec-linux-arm64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-arm64) | 6.9 MiB | `native/linux/arm64` |
-| [ec-windows-amd64.exe](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-windows-amd64.exe) | 7.4 MiB | `native/win/x64` |
-| [ec-windows-arm64.exe](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-windows-arm64.exe) | 7.2 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -48,21 +48,24 @@ x install ec
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 9 |
-| 90d | 2026-06-12 | 1 | 0 | 0 | 1 | 0 | 9 |
-| 360d | 2025-09-15 | 11 | 24 | 0 | 9 | 1 | 145 |
+| 30d | 2026-08-12 | 1 | 0 | 0 | 0 | 0 | 9 |
+| last60d | 2026-07-13 | 1 | 0 | 0 | 0 | 0 | 9 |
+| 90d | 2026-06-13 | 1 | 0 | 0 | 1 | 0 | 9 |
+| last180d | 2026-03-15 | 4 | 8 | 0 | 4 | 1 | 22 |
+| 360d | 2025-09-16 | 11 | 24 | 0 | 9 | 1 | 145 |
+| last720d | 2024-09-21 | 11 | 24 | 0 | 9 | 1 | 169 |
 
-## Code size
+## Release assets
 
-Total: **14,920** lines of code across **59** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 14,283 | 157 | 1,696 | 52 |
-| Lua | 159 | 1 | 22 | 2 |
-| JavaScript | 142 | 7 | 23 | 2 |
-| Nix | 97 | 0 | 7 | 2 |
-| Sh | 84 | 1 | 15 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/chojs23/ec/releases/download/v0.4.1/checksums.txt) | 500 B | `other` |
+| [ec-darwin-amd64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-darwin-amd64) | 7.1 MiB | `native/darwin/x64` |
+| [ec-darwin-arm64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-darwin-arm64) | 7.0 MiB | `native/darwin/arm64` |
+| [ec-linux-amd64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-amd64) | 7.1 MiB | `native/linux/x64` |
+| [ec-linux-arm64](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-linux-arm64) | 6.9 MiB | `native/linux/arm64` |
+| [ec-windows-amd64.exe](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-windows-amd64.exe) | 7.4 MiB | `native/win/x64` |
+| [ec-windows-arm64.exe](https://github.com/chojs23/ec/releases/download/v0.4.1/ec-windows-arm64.exe) | 7.2 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -73,4 +76,4 @@ Install metadata for ec lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:12:04Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:20:30Z._
