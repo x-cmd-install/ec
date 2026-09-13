@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 500,
       "digest": "sha256:f3959a5fb0600102e43fbea3b0929026edb3a7eab9bc5731001ede507186122d",
-      "download_count": 16,
+      "download_count": 20,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7325826,
       "digest": "sha256:b4defcb392019f7487206f4ecdaf7f92f03704d2781f54af95d9805e1a3d2d89",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7418148,
       "digest": "sha256:a0ea271414404af5d0dc64ae95e56a476d4137b85855a9afa654fc8be98d0257",
-      "download_count": 12,
+      "download_count": 26,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7209144,
       "digest": "sha256:f173c38d8c5f2dac2d59f3ad0315dbb17ebaccd3943d570570268525d7aec07f",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7779840,
       "digest": "sha256:70f19f2d770ad692449f6af20f6c83e34a6618c718323a52355deb90c9d484cf",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-windows-amd64.exe"
