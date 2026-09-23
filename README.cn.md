@@ -4,7 +4,7 @@
 
 Terminal-native 3-way git mergetool and diff viewer
 
-[![x-cmd/install — ec Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ec.svg?lang=zh)](https://x-cmd.com/install/ec)
+[![x-cmd/install — ec Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ec.svg?lang=zh)](https://x-cmd.com/install/ec)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install ec
 
 ## 流行度
 
-- **Star**: 302 · **Fork**: 6 · **开放 issue**: 10 · **贡献者**: 6
+- **Star**: 303 · **Fork**: 6 · **开放 issue**: 10 · **贡献者**: 6
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install ec
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 4 | 4 | 0 | 2 | 0 | 0 |
-| 360d | 2025-09-27 | 12 | 24 | 0 | 9 | 1 | 0 |
-| last720d | 2024-10-02 | 12 | 24 | 0 | 9 | 1 | 171 |
+| 30d | 2026-08-24 | 2 | 0 | 0 | 0 | 0 | 11 |
+| last60d | 2026-07-25 | 2 | 0 | 0 | 0 | 0 | 11 |
+| 90d | 2026-06-25 | 2 | 0 | 0 | 0 | 0 | 11 |
+| last180d | 2026-03-27 | 4 | 4 | 0 | 2 | 0 | 20 |
+| 360d | 2025-09-28 | 12 | 24 | 0 | 9 | 1 | 147 |
+| last720d | 2024-10-03 | 12 | 24 | 0 | 9 | 1 | 171 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ ec 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:03:42Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:44:01Z._

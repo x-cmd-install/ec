@@ -4,7 +4,7 @@
 
 Terminal-native 3-way git mergetool and diff viewer
 
-[![x-cmd/install — ec Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ec.svg)](https://x-cmd.com/install/ec)
+[![x-cmd/install — ec Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ec.svg)](https://x-cmd.com/install/ec)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **14,941** lines of code across **59** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 302 · **Forks**: 6 · **Open issues**: 10 · **Contributors**: 6
+- **Stars**: 303 · **Forks**: 6 · **Open issues**: 10 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **14,941** lines of code across **59** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 4 | 4 | 0 | 2 | 0 | 0 |
-| 360d | 2025-09-27 | 12 | 24 | 0 | 9 | 1 | 0 |
-| last720d | 2024-10-02 | 12 | 24 | 0 | 9 | 1 | 171 |
+| 30d | 2026-08-24 | 2 | 0 | 0 | 0 | 0 | 11 |
+| last60d | 2026-07-25 | 2 | 0 | 0 | 0 | 0 | 11 |
+| 90d | 2026-06-25 | 2 | 0 | 0 | 0 | 0 | 11 |
+| last180d | 2026-03-27 | 4 | 4 | 0 | 2 | 0 | 20 |
+| 360d | 2025-09-28 | 12 | 24 | 0 | 9 | 1 | 147 |
+| last720d | 2024-10-03 | 12 | 24 | 0 | 9 | 1 | 171 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for ec lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:03:41Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:44:01Z._
