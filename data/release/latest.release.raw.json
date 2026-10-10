@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 500,
       "digest": "sha256:f3959a5fb0600102e43fbea3b0929026edb3a7eab9bc5731001ede507186122d",
-      "download_count": 54,
+      "download_count": 58,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7481712,
       "digest": "sha256:027884a6ce7e013090de85b98722f326d218bc91af69d944f5415a7560824162",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7325826,
       "digest": "sha256:b4defcb392019f7487206f4ecdaf7f92f03704d2781f54af95d9805e1a3d2d89",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7418148,
       "digest": "sha256:a0ea271414404af5d0dc64ae95e56a476d4137b85855a9afa654fc8be98d0257",
-      "download_count": 159,
+      "download_count": 165,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-linux-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7500288,
       "digest": "sha256:c15ac4ec63d3d16390a0e66cf823ed2af32848dd6a21bdbbc3d0f1520354fc74",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-windows-arm64.exe"
