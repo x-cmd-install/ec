@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7418148,
       "digest": "sha256:a0ea271414404af5d0dc64ae95e56a476d4137b85855a9afa654fc8be98d0257",
-      "download_count": 254,
+      "download_count": 256,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-linux-amd64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7779840,
       "digest": "sha256:70f19f2d770ad692449f6af20f6c83e34a6618c718323a52355deb90c9d484cf",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-windows-amd64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7500288,
       "digest": "sha256:c15ac4ec63d3d16390a0e66cf823ed2af32848dd6a21bdbbc3d0f1520354fc74",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-11T16:25:42Z",
       "updated_at": "2026-09-11T16:25:42Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.2/ec-windows-arm64.exe"
