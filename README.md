@@ -38,7 +38,7 @@ Total: **14,941** lines of code across **59** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 320 · **Forks**: 7 · **Open issues**: 10 · **Contributors**: 6
+- **Stars**: 321 · **Forks**: 7 · **Open issues**: 10 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **14,941** lines of code across **59** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 2 | 0 | 0 | 0 | 0 | 11 |
-| last180d | 2026-05-14 | 3 | 2 | 0 | 2 | 0 | 16 |
-| 360d | 2025-11-15 | 12 | 24 | 0 | 9 | 1 | 147 |
-| last720d | 2024-11-20 | 12 | 24 | 0 | 9 | 1 | 171 |
+| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 2 | 0 | 0 | 0 | 0 | 11 |
+| last180d | 2026-05-15 | 3 | 2 | 0 | 2 | 0 | 16 |
+| 360d | 2025-11-16 | 12 | 24 | 0 | 9 | 1 | 147 |
+| last720d | 2024-11-21 | 12 | 24 | 0 | 9 | 1 | 171 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for ec lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:09:12Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:06:27Z._
