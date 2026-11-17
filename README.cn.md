@@ -14,11 +14,11 @@ x install ec
 
 ## 代码洞察
 
-合计: **14,941** 行代码（覆盖前 5 种语言、共 **59** 个文件）。
+合计: **15,158** 行代码（覆盖前 5 种语言、共 **60** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 14,304 | 157 | 1,699 | 52 |
+| Go | 14,521 | 159 | 1,713 | 53 |
 | Lua | 159 | 1 | 22 | 2 |
 | JavaScript | 142 | 7 | 23 | 2 |
 | Nix | 97 | 0 | 7 | 2 |
@@ -32,40 +32,40 @@ x install ec
 
 ## 发布
 
-- **最新版本**: `v0.4.2` (2026-09-11)
-- **最近提交**: 2026-09-11
+- **最新版本**: `v0.4.3` (2026-11-16)
+- **最近提交**: 2026-11-16
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 322 · **Fork**: 7 · **开放 issue**: 11 · **贡献者**: 6
+- **Star**: 323 · **Fork**: 8 · **开放 issue**: 11 · **贡献者**: 6
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 24 · **开放 PR**: 0 · **已关闭 issue**: 9 · **开放 issue**: 2 · **提交数**: 171
+- **发布数**: 13 · **已合并 PR**: 25 · **开放 PR**: 0 · **已关闭 issue**: 10 · **开放 issue**: 1 · **提交数**: 173
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-18 | 2 | 0 | 0 | 0 | 1 | 11 |
-| last180d | 2026-05-20 | 3 | 2 | 0 | 2 | 1 | 16 |
-| 360d | 2025-11-21 | 12 | 24 | 0 | 9 | 2 | 147 |
-| last720d | 2024-11-26 | 12 | 24 | 0 | 9 | 2 | 171 |
+| 30d | 2026-10-18 | 1 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-09-18 | 1 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-08-19 | 3 | 1 | 0 | 1 | 0 | 12 |
+| last180d | 2026-05-21 | 4 | 3 | 0 | 3 | 0 | 17 |
+| 360d | 2025-11-22 | 13 | 25 | 0 | 10 | 1 | 148 |
+| last720d | 2024-11-27 | 13 | 25 | 0 | 10 | 1 | 173 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/chojs23/ec/releases/download/v0.4.2/checksums.txt) | 500 B | `other` |
-| [ec-darwin-amd64](https://github.com/chojs23/ec/releases/download/v0.4.2/ec-darwin-amd64) | 7.1 MiB | `native/darwin/x64` |
-| [ec-darwin-arm64](https://github.com/chojs23/ec/releases/download/v0.4.2/ec-darwin-arm64) | 7.0 MiB | `native/darwin/arm64` |
-| [ec-linux-amd64](https://github.com/chojs23/ec/releases/download/v0.4.2/ec-linux-amd64) | 7.1 MiB | `native/linux/x64` |
-| [ec-linux-arm64](https://github.com/chojs23/ec/releases/download/v0.4.2/ec-linux-arm64) | 6.9 MiB | `native/linux/arm64` |
-| [ec-windows-amd64.exe](https://github.com/chojs23/ec/releases/download/v0.4.2/ec-windows-amd64.exe) | 7.4 MiB | `native/win/x64` |
-| [ec-windows-arm64.exe](https://github.com/chojs23/ec/releases/download/v0.4.2/ec-windows-arm64.exe) | 7.2 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/chojs23/ec/releases/download/v0.4.3/checksums.txt) | 500 B | `other` |
+| [ec-darwin-amd64](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-darwin-amd64) | 7.1 MiB | `native/darwin/x64` |
+| [ec-darwin-arm64](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-darwin-arm64) | 7.0 MiB | `native/darwin/arm64` |
+| [ec-linux-amd64](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-linux-amd64) | 7.1 MiB | `native/linux/x64` |
+| [ec-linux-arm64](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-linux-arm64) | 6.9 MiB | `native/linux/arm64` |
+| [ec-windows-amd64.exe](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-windows-amd64.exe) | 7.4 MiB | `native/win/x64` |
+| [ec-windows-arm64.exe](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-windows-arm64.exe) | 7.2 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ ec 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:26:04Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T07:49:39Z._
