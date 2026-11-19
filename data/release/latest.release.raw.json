@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 500,
       "digest": "sha256:57b9932baba2a472daca419ecaa53959d01c552cc61597865ffb5b2ca93127cd",
-      "download_count": 34,
+      "download_count": 40,
       "created_at": "2026-11-16T12:16:44Z",
       "updated_at": "2026-11-16T12:16:44Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.3/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7342370,
       "digest": "sha256:aaf1657f1f4718d552d23b4d9e8867bac10b04d5f4f700c34aead7121efc2dac",
-      "download_count": 2,
+      "download_count": 17,
       "created_at": "2026-11-16T12:16:44Z",
       "updated_at": "2026-11-16T12:16:46Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.3/ec-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7418148,
       "digest": "sha256:4200c7d48172f5d9c780704c7c000c8676d3dbc630da58fa8eb917e247a5ac0a",
-      "download_count": 21,
+      "download_count": 68,
       "created_at": "2026-11-16T12:16:44Z",
       "updated_at": "2026-11-16T12:16:45Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.3/ec-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7209144,
       "digest": "sha256:017e4a8448ed1e4acd1f76a5980df6010cdf2e4c3ad261bc177eb98d9b0d12fe",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-16T12:16:44Z",
       "updated_at": "2026-11-16T12:16:45Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.3/ec-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7782400,
       "digest": "sha256:dbe288a564bcdc585b1500e48eb16d500c53bd7fe0bfa2e27438639592c4c197",
-      "download_count": 26,
+      "download_count": 29,
       "created_at": "2026-11-16T12:16:44Z",
       "updated_at": "2026-11-16T12:16:44Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.3/ec-windows-amd64.exe"
