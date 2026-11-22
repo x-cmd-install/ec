@@ -14,11 +14,11 @@ x install ec
 
 ## Code insight
 
-Total: **15,158** lines of code across **60** files in the top 5 languages.
+Total: **15,233** lines of code across **60** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,521 | 159 | 1,713 | 53 |
+| Go | 14,596 | 160 | 1,718 | 53 |
 | Lua | 159 | 1 | 22 | 2 |
 | JavaScript | 142 | 7 | 23 | 2 |
 | Nix | 97 | 0 | 7 | 2 |
@@ -32,40 +32,40 @@ Total: **15,158** lines of code across **60** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.4.3` (2026-11-16)
-- **Last commit**: 2026-11-16
+- **Latest**: `v0.4.4` (2026-11-21)
+- **Last commit**: 2026-11-21
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 323 · **Forks**: 8 · **Open issues**: 11 · **Contributors**: 6
+- **Stars**: 324 · **Forks**: 8 · **Open issues**: 11 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 25 · **Open PRs**: 1 · **Closed issues**: 10 · **Open issues**: 1 · **Commits**: 173
+- **Releases**: 14 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 1 · **Commits**: 177
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 1 | 1 | 1 | 0 | 1 |
-| last60d | 2026-09-22 | 1 | 1 | 1 | 1 | 0 | 1 |
-| 90d | 2026-08-23 | 3 | 1 | 1 | 1 | 0 | 12 |
-| last180d | 2026-05-25 | 4 | 3 | 1 | 3 | 0 | 17 |
-| 360d | 2025-11-26 | 13 | 25 | 1 | 10 | 1 | 148 |
-| last720d | 2024-12-01 | 13 | 25 | 1 | 10 | 1 | 173 |
+| 30d | 2026-10-23 | 2 | 2 | 0 | 1 | 0 | 4 |
+| last60d | 2026-09-23 | 2 | 2 | 0 | 1 | 0 | 4 |
+| 90d | 2026-08-24 | 4 | 2 | 0 | 1 | 0 | 15 |
+| last180d | 2026-05-26 | 5 | 4 | 0 | 3 | 0 | 20 |
+| 360d | 2025-11-27 | 14 | 26 | 0 | 10 | 1 | 151 |
+| last720d | 2024-12-02 | 14 | 26 | 0 | 10 | 1 | 177 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/chojs23/ec/releases/download/v0.4.3/checksums.txt) | 500 B | `other` |
-| [ec-darwin-amd64](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-darwin-amd64) | 7.1 MiB | `native/darwin/x64` |
-| [ec-darwin-arm64](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-darwin-arm64) | 7.0 MiB | `native/darwin/arm64` |
-| [ec-linux-amd64](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-linux-amd64) | 7.1 MiB | `native/linux/x64` |
-| [ec-linux-arm64](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-linux-arm64) | 6.9 MiB | `native/linux/arm64` |
-| [ec-windows-amd64.exe](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-windows-amd64.exe) | 7.4 MiB | `native/win/x64` |
-| [ec-windows-arm64.exe](https://github.com/chojs23/ec/releases/download/v0.4.3/ec-windows-arm64.exe) | 7.2 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/chojs23/ec/releases/download/v0.4.4/checksums.txt) | 500 B | `other` |
+| [ec-darwin-amd64](https://github.com/chojs23/ec/releases/download/v0.4.4/ec-darwin-amd64) | 7.1 MiB | `native/darwin/x64` |
+| [ec-darwin-arm64](https://github.com/chojs23/ec/releases/download/v0.4.4/ec-darwin-arm64) | 7.0 MiB | `native/darwin/arm64` |
+| [ec-linux-amd64](https://github.com/chojs23/ec/releases/download/v0.4.4/ec-linux-amd64) | 7.1 MiB | `native/linux/x64` |
+| [ec-linux-arm64](https://github.com/chojs23/ec/releases/download/v0.4.4/ec-linux-arm64) | 6.9 MiB | `native/linux/arm64` |
+| [ec-windows-amd64.exe](https://github.com/chojs23/ec/releases/download/v0.4.4/ec-windows-amd64.exe) | 7.4 MiB | `native/win/x64` |
+| [ec-windows-arm64.exe](https://github.com/chojs23/ec/releases/download/v0.4.4/ec-windows-arm64.exe) | 7.2 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for ec lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T06:58:19Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:41:22Z._
