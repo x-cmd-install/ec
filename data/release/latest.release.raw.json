@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 500,
       "digest": "sha256:04cb0e312e7cbd45c2db2f642dd5268aae9cd0f4b1f8f4a4f82d8b330b40703d",
-      "download_count": 46,
+      "download_count": 48,
       "created_at": "2026-11-21T11:15:36Z",
       "updated_at": "2026-11-21T11:15:37Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.4/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7342386,
       "digest": "sha256:fefc5a60185a35ba44e6e0744d33589a4986e736dfc7d15f5bd79f2e0df622c7",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-21T11:15:36Z",
       "updated_at": "2026-11-21T11:15:37Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.4/ec-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7422244,
       "digest": "sha256:e14841885ab3ed5519243942993c344b504afa6708f326a885081d1fd53d6394",
-      "download_count": 74,
+      "download_count": 81,
       "created_at": "2026-11-21T11:15:36Z",
       "updated_at": "2026-11-21T11:15:37Z",
       "browser_download_url": "https://github.com/chojs23/ec/releases/download/v0.4.4/ec-linux-amd64"
